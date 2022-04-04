@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hii, I'm Anjali Priya 👋
 
 <!--
 **Anju0565/Anju0565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
