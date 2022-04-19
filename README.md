@@ -52,7 +52,7 @@ Quick learner with core knowledge of MERN stack technology. Looking forward to a
 
 | ![Anjali's github stats](https://github-readme-stats.vercel.app/api?username=Anju0565&show_icons=true&theme=tokyonight) | ![Anjali GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anju0565&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardikThummar97&theme=tokyonight)|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anju0565&theme=tokyonight)|
 
 
 
