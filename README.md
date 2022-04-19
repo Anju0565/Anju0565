@@ -2,6 +2,10 @@
 ### Aspiring Full Stack Web Developer
 <p align="center"><img src = "https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height = "300px" width = "94%"></p>
 
+
+<h2> About Me </h2>
+
+
 Quick learner with core knowledge of MERN stack technology. Looking forward to applying and enhancing my skills and knowledge as a developer.
 
 - 💬 Have a look at my [portfolio](https://anjali-portfolio-c94484.netlify.app/).
@@ -16,7 +20,7 @@ Quick learner with core knowledge of MERN stack technology. Looking forward to a
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anju0565" alt="anju0565" /></a> </p>
 
 
-<h3 align="left">Connect with me:</h3><br />
+<h2 align="left">Connect with me:</h2><br />
 
 
 <p align="left">
@@ -48,7 +52,7 @@ Quick learner with core knowledge of MERN stack technology. Looking forward to a
 
 | ![Anjali's github stats](https://github-readme-stats.vercel.app/api?username=Anju0565&show_icons=true&theme=tokyonight) | ![Anjali GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anju0565&theme=tokyonight) |
 | --- | --- |
-
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardikThummar97&theme=tokyonight)|
 
 
 
@@ -57,3 +61,4 @@ Quick learner with core knowledge of MERN stack technology. Looking forward to a
 
 
 -----
+
