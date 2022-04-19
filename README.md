@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Anjali Priya</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+### Hi there 👋, my name is Anjali Priya
+#### Aspiring Full Stack Web Developer
+![Aspiring Full Stack Web Developer](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
+
+Quick learner and an aspiring full-stack web developer with core knowledge of MERN stack technology. Looking forward to applying and enhancing my skills and knowledge as a developer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anju0565&label=Profile%20views&color=0e75b6&style=flat" alt="anju0565" /> </p>
 
