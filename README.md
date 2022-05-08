@@ -8,6 +8,9 @@
 
 Quick learner with core knowledge of MERN stack technology. Looking forward to applying and enhancing my skills and knowledge as a developer.
 
+- 🌱 I’m currently learning MERN Stack
+- 👯 I’m looking to collaborate with other Developers :wink:
+
 - 💬 Have a look at my [portfolio](https://anjali-portfolio-c94484.netlify.app/).
 
 - 📫 Drop a mail: **anjalipriya0565@gmail.com**
